@@ -1,0 +1,38 @@
+body{
+    background-image: url(../photos/quiz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main-card{
+    background: none;
+    color: white;
+    border: 0;
+}
+.card{
+    margin: 14% 10%; 
+    width: 30rem;
+    padding: 5% 3%;
+}
+.main.card{
+    margin: 3% 5%;
+    padding: 2%;
+    width: 550px;
+}
+.main-btn {
+    margin: 0.7rem 0;
+    padding: 0.2rem ;
+}
+.submit-div{
+    padding: 1%;
+}
+.o1,.o2,.o3,.o4{
+    font-weight: 600;
+    margin: 0.7rem 0;
+    padding: 0.2rem ;
+}
+#qno{
+    float: left;
+}
+.timer,#time{
+    float: right;
+}
